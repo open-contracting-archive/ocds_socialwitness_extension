@@ -1,0 +1,40 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "socialWitness": {
+          "properties": {
+            "id": {
+              "title": "ID of Social Witness",
+              "description": "Identifier of the code of Social Witness",
+              "type": "string"
+            },
+            "hasSocialWitness": {
+              "title": "Existence of social witness",
+              "description": "Binary of has social witness or no",
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    },
+    "TenderUnversioned": {
+      "properties": {
+        "socialWitness": {
+          "properties": {
+            "id": {
+              "title": "ID of Social Witness",
+              "description": "Identifier of the code of Social Witness",
+              "type": "string"
+            },
+            "hasSocialWitness": {
+              "title": "Existence of social witness",
+              "description": "Binary of has social witness or no",
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "socialWitness": {
+          "title": "Social witness",
+          "description": "Description of social witness process, if applicable",
+          "properties": {
+            "id": {
+              "title": "ID of Social Witness",
+              "description": "Identifier of the code of Social Witness",
+              "type": "string"
+            },
+            "hasSocialWitness": {
+              "title": "Existence of social witness",
+              "description": "Binary of has social witness or no",
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    }
+  }
+}
