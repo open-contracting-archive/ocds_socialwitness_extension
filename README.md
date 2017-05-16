@@ -4,3 +4,6 @@ The Social Witness figure is a mechanism of citizen participation to involve civ
 
 This figure exists only in the procurement processes in Mexico. There is a committee of Social Witnesses [registered in the Funcion Pública ministry](http://www.funcionpublica.gob.mx/unaopspf/tsocial/tsocial.htm) and it can be an individual or an entity. The federal government has social witness as compulsory and subnational governments can opt in. 
 
+##
+
+Social Witness figure extension goes in the Parties section as `socialWitness`
